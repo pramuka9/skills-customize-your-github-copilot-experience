@@ -20,3 +20,5 @@ When generating content for this project:
 
 - **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
 - **Student-friendly**: Use clear, encouraging language that motivates students
+
+These educational standards apply only when generating assignment text, instructions, or learning materials. When generating or modifying website code (HTML, CSS, JavaScript, config.json), follow standard software engineering best practices instead.
