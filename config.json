@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "algorithmic-thinking-functions-lists",
+      "title": "Algorithmic Thinking with Functions and Lists",
+      "description": "Practice algorithmic problem solving with helper functions and list-based challenges in Python.",
+      "path": "assignments/algorithmic-thinking-functions-lists",
+      "dueDate": "2026-07-20",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
